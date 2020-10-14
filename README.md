@@ -1,5 +1,6 @@
-# RISC-V_MYTH_Workshop
+RISC V (RV32I) CPU Core
 
-For students of "Microprocessor for You in Thirty Hours" Workshop, offered by for VLSI System Design (VSD) and Redwood EDA, find here accompanying live info and links.
+This repository contains all the information about RISC V CPU Core that is builtin the 5-days Workshop “RISC-V based Microprocessor for You in Thirty Hours"
+
 
 Check the folders for assignments for particular days.
