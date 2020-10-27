@@ -66,6 +66,11 @@ debug Verilog designs, all from your browser. Your code, block diagrams, and wav
 **Pipelining in TL-Verilog - Pythagorean Theorem Implementation**
 
 1. Single Stage pipeline
+
+![Screenshot (440)](https://user-images.githubusercontent.com/48850794/97301600-f5474780-187d-11eb-9aff-17d5d9db7c4a.png)
+
 2. 3 - Stage pipeline
+
+![Screenshot (441)](https://user-images.githubusercontent.com/48850794/97302299-e01ee880-187e-11eb-89f6-945fb512c699.png)
 
 Check the folders for assignments for particular days.
