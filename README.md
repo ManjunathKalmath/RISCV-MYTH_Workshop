@@ -32,6 +32,8 @@ and Division, Atomic Instructions,Single and Double Precision Floating Points wh
 In the workshop SPIKE RISC V ISA Simulator is used.
 More on Spike Simulator Visit https://github.com/riscv/riscv-isa-sim
 
+## Day - 2 : Introduction to ABI and basic verification flow
+
 #### Sum 1 to n program using SPIKE
 In this picture we can get to know the contents of any register by:
 > `reg 0 "ABI name of register"`
@@ -40,7 +42,7 @@ In this picture we can get to know the contents of any register by:
 
 #### Application Binary Interface
 
-
+![32-registers](https://user-images.githubusercontent.com/48850794/97298238-28d3a300-1879-11eb-9c24-6e7b40c1c2ac.png)
 
 
 
