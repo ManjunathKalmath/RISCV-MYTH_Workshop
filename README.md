@@ -33,6 +33,13 @@ In the workshop SPIKE RISC V ISA Simulator is used.
 More on Spike Simulator Visit https://github.com/riscv/riscv-isa-sim
 
 #### Sum 1 to n program using SPIKE
+In this picture we can get to know the contents of any register by:
+> `reg 0 "ABI name of register"`
+
+![day-1](https://user-images.githubusercontent.com/48850794/97297491-215fca00-1878-11eb-86f7-3f6c9374b924.png)
+
+#### Application Binary Interface
+
 
 
 
