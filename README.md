@@ -42,8 +42,16 @@ In this picture we can get to know the contents of any register by:
 
 #### Application Binary Interface
 
+RISC-V architecture has 32 registers. Application programmer, can access each of these 32 registers through its ABI name,
+for example, you need know the value of stack pointer or move the stack pointer, all you need to do is “addi sp, sp, -16”,
+where ‘sp’ is the ABI name of stack pointer.
+
 ![32-registers](https://user-images.githubusercontent.com/48850794/97298238-28d3a300-1879-11eb-9c24-6e7b40c1c2ac.png)
 
+## Day - 3 : Digital Logic with TL-Verilog and Makerchip
+
+Transaction-Level Verilog (TL-Verilog) is an emerging extension to SystemVerilog that supports transaction-level design methodology.
+In transaction-level design, a ​transaction is an entity that moves through a microarchitecture. 
 
 
 Check the folders for assignments for particular days.
