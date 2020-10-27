@@ -91,7 +91,11 @@ debug Verilog designs, all from your browser. Your code, block diagrams, and wav
 
 ## Day - 5 : Complete Pipelined RISC-V CPU micro-architecture/store
 
+![Screenshot (411)](https://user-images.githubusercontent.com/48850794/97336558-2a1ac500-18a5-11eb-8701-86d7d2a6dfcf.png)
 
 
-
-Check the folders for assignments for particular days.
+## Acknowledgements
+- @Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+- @Steve Hoover, Founder, Redwood EDA
+- @Shivam Potdar, GSoC 2020 @fossi-foundation
+- @Vineet Jain, GSoC 2020 @fossi-foundation
