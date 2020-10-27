@@ -50,8 +50,22 @@ where ‘sp’ is the ABI name of stack pointer.
 
 ## Day - 3 : Digital Logic with TL-Verilog and Makerchip
 
+**TL-Verilog**
+
 Transaction-Level Verilog (TL-Verilog) is an emerging extension to SystemVerilog that supports transaction-level design methodology.
 In transaction-level design, a ​transaction is an entity that moves through a microarchitecture. 
 
+**Makerchip IDE**
+Makerchip is a free online environment for developing high-quality integrated circuits. You can code, compile, simulate, and 
+debug Verilog designs, all from your browser. Your code, block diagrams, and waveforms are tightly integrated.
+
+**AND Gate - Makerchip IDE**
+
+![Screenshot (438)](https://user-images.githubusercontent.com/48850794/97299564-22462b00-187b-11eb-9ad0-5dfbee8a5181.png)
+
+**Pipelining in TL-Verilog - Pythagorean Theorem Implementation**
+
+1. Single Stage pipeline
+2. 3 - Stage pipeline
 
 Check the folders for assignments for particular days.
