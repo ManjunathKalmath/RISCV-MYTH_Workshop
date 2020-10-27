@@ -87,6 +87,9 @@ debug Verilog designs, all from your browser. Your code, block diagrams, and wav
 - Memory Access
 - Write Back
 
+![Screenshot (444)](https://user-images.githubusercontent.com/48850794/97336282-d6a87700-18a4-11eb-851e-b24c534fcc37.png)
+
+## Day - 5 : Complete Pipelined RISC-V CPU micro-architecture/store
 
 
 
