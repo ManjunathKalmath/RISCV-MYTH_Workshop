@@ -95,7 +95,7 @@ debug Verilog designs, all from your browser. Your code, block diagrams, and wav
 
 
 ## Acknowledgements
-- @kunalg123, Co-founder, VSD Corp. Pvt. Ltd.
-- @stevehoover, Founder, Redwood EDA
-- @shivampotdar, GSoC 2020 @fossi-foundation
-- @vineetjain07, GSoC 2020 @fossi-foundation
+- [Kunal Ghosh](https://github.com/kunalg123), Co-founder, VSD Corp. Pvt. Ltd.
+- [Steve Hoover](https://github.com/stevehoover), Founder, Redwood EDA
+- [Shivam Potdar](https://github.com/shivampotdar), GSoC 2020 @fossi-foundation
+- [Vineet Jain](https://github.com/vineetjain07), GSoC 2020 @fossi-foundation
