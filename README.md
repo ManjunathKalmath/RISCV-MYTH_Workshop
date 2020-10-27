@@ -76,6 +76,19 @@ debug Verilog designs, all from your browser. Your code, block diagrams, and wav
 
 **Sequential Calculator**
 
+![Screenshot (443)](https://user-images.githubusercontent.com/48850794/97335354-c5ab3600-18a3-11eb-95ea-9cada592e90a.png)
+
+## Day - 4 : Basic RISC-V CPU micro-architecture
+
+5 stage pipeline processor consists of:
+- Instruction Fetch
+- Instruction Decode
+- Instruction Execute
+- Memory Access
+- Write Back
+
+
+
 
 
 Check the folders for assignments for particular days.
