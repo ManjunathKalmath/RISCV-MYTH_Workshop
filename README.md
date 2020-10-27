@@ -74,4 +74,8 @@ debug Verilog designs, all from your browser. Your code, block diagrams, and wav
 
 ![Screenshot (441)](https://user-images.githubusercontent.com/48850794/97302299-e01ee880-187e-11eb-89f6-945fb512c699.png)
 
+**Sequential Calculator**
+
+
+
 Check the folders for assignments for particular days.
